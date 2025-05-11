@@ -44,7 +44,7 @@ I believe in continuous learning and hands-on practice.
 
 ## 📫 Connect With Me
 
-- LinkedIn: 
+- LinkedIn: (https://www.linkedin.com/in/nidhay-shukla-4326a0343).
 - Email: nidhayshukla27574@gmail.com
 - Resume: [Download Resume](https://link-to-your-resume)
 
