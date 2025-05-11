@@ -10,10 +10,11 @@
 
 I’m passionate about building real-world tech solutions using **Python**. From web apps to machine learning models, I enjoy solving problems that make a difference.
 
-Currently, I’m learning more about:
-- Web Development using **Django & Flask**
-- Data Visualization & **Machine Learning with Python**
-- Automating everyday tasks with scripting
+🧠 Currently Exploring:
+- 🖥️ Full Stack Development (HTML, CSS, Django, SQLite)
+- 📊 Data Analytics & Machine Learning (Pandas, Scikit-learn)
+- 🗄️ DBMS & SQL Concepts
+- 🔐 Fundamentals of Cybersecurity & Networks
 
 I believe in continuous learning and hands-on practice.
 
