@@ -33,7 +33,7 @@ I believe in continuous learning and hands-on practice.
 
 | Project | Description |
 |--------|-------------|
-| django-blog-app (Coming soon) | A full-stack blogging platform with login, CRUD, and admin panel. |
+| django-blog-app (https://github.com/nidhayshukla45/django-blog.git) | A Django-based blog system using the admin panel with full CRUD functionality for blog posts. |
 | fake-news-detector (Coming soon) | Machine learning model using TF-IDF + Logistic Regression to detect fake news. |
 | todo-flask-api (Coming soon) | A RESTful To-Do app built with Flask and SQLite, using API principles. |
 | python-automation-scripts (Coming soon) | A collection of Python scripts for automating files, emails, and PDFs. |
