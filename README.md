@@ -31,10 +31,10 @@ I believe in continuous learning and hands-on practice.
 
 ## 📂 Featured Projects
 
-| Project                             | Description |
-|-------------------------------------|-------------|
-| 🔹 Smart Student Feedback System     | A web-based PHP & MySQL project for collecting and reviewing student feedback. Includes a clean form and an admin viewer panel with full database support. |
-| 🔹 Course Recommendation System (ML) | A Python-based machine learning project that suggests online courses based on user preferences using logistic regression or Naive Bayes. CSV-backed and optional web interface with Flask or Streamlit. |
+| Project | Description |
+|--------|-------------|
+| [🔹 Smart Student Feedback System](https://github.com/NidhayShukla/smart-feedback-system) | A web-based PHP & MySQL project for collecting and reviewing student feedback. Includes a clean form and an admin viewer panel with full database support. |
+| [🔹 Course Recommendation System (ML)](Comong Soon) | A Python-based machine learning project that suggests online courses based on user preferences using logistic regression or Naive Bayes. CSV-backed and optional web interface with Flask or Streamlit. |
 
 ## 📫 Connect With Me
 
