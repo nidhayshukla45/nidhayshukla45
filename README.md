@@ -1,47 +1,75 @@
-# Hi there, I'm Nidhay Shukla! 👋
+👋 Hi, I'm Nidhay Shukla!
 
-🎓 MSc IT Student at Dr. Babasaheb Ambedkar Marathwada University  
-💻 Python Enthusiast | Web Developer | Data Science Learner  
-📍 Based in Chhatrapati Sambhajinagar (Aurangabad), India
+🎓 MSc IT Student at Dr. Babasaheb Ambedkar Marathwada University
+💻 Python Dev | Web Dev | Data Science Explorer
+📍 Living in Chhatrapati Sambhajinagar (Aurangabad), India
 
----
-
-## About Me
-
-I’m passionate about building real-world tech solutions using **Python**. From web apps to machine learning models, I enjoy solving problems that make a difference.
-
-🧠 Currently Exploring:
-- 🖥️ Full Stack Development (HTML, CSS, Django, PHP, MySQL, SQLite)
-- 📊 Data Analytics & Machine Learning (Pandas, Scikit-learn, Regression Models)
-- 🗄️ DBMS & SQL Concepts (Normalization, Queries, PL/SQL, Triggers)
-- 🔐 Fundamentals of Cybersecurity & Networks
-
-I believe in continuous learning and hands-on practice.
 
 ---
 
-## 🛠️ Skills
+🌟 About Me
 
-- **Languages**: Python, PHP, HTML, CSS, JavaScript, SQL
-- **Frameworks/Tools**: Django, Flask, Pandas, NumPy, Matplotlib, Scikit-learn
-- **Database**: MySQL, SQLite
-- **Other Tools**: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
+I’m a curious mind who loves turning ideas into real-world tech solutions. Whether it's crafting clean user interfaces or building intelligent systems with Python, I enjoy solving problems that actually make an impact.
 
----
+I'm all about learning by doing—you'll often find me experimenting with full-stack projects or diving into machine learning algorithms to see what magic I can create.
 
-## 📂 Featured Projects
+🔍 Currently exploring:
 
-| Project | Description |
-|--------|-------------|
-| [🔹 Smart Student Feedback System](https://github.com/nidhayshukla45/smart-feedback-system.git) | A web-based PHP & MySQL project for collecting and reviewing student feedback. Includes a clean form and an admin viewer panel with full database support. |
-| [🔹 Course Recommendation System (ML)](https://github.com/nidhayshukla45/course-recomendation-system.git) | A Python-based machine learning project that suggests online courses based on user interests using Logistic Regression or Naive Bayes. The system uses a CSV dataset and features an optional web interface build with Streamlit or Flask. |
+💡 Full Stack Development – Django, PHP, HTML/CSS, MySQL
 
-## 📫 Connect With Me
+📈 Data Science & Machine Learning – Pandas, Scikit-learn, Regression Models
 
-- LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/nidhay-shukla-4326a0343).
-- Email: nidhayshukla27574@gmail.com
-- Resume: [Download Resume](https://link-to-your-resume)
+🗃️ Database Management – SQL, PL/SQL, Triggers, ER Diagrams
+
+🔐 Cybersecurity Basics & Networking – Understanding how systems stay secure
+
+
 
 ---
 
-Thanks for visiting my profile! Feel free to fork, star, or collaborate on any of my projects.
+💼 Skills & Tools
+
+Languages: Python, PHP, HTML, CSS, JavaScript, SQL
+
+Frameworks/Libraries: Django, Flask, Pandas, NumPy, Matplotlib, Scikit-learn
+
+Databases: MySQL, SQLite
+
+Tools: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
+
+
+
+---
+
+🚀 Featured Projects
+
+💡 Project	🔎 Description
+
+Smart Student Feedback System	A PHP & MySQL-powered web app for collecting and managing student feedback. Clean UI, secure database, and an admin dashboard.
+Course Recommendation System (ML)	A machine learning-based project that recommends online courses based on user input. Built with Python, pandas, and logistic regression. Can also run with a Streamlit or Flask interface.
+
+
+
+---
+
+🤝 Let's Connect
+
+📬 Email: nidhayshukla27574@gmail.com
+
+💼 LinkedIn: View My Profile
+
+📄 Resume: Download Here
+
+
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+— Cory House
+
+
+
+Thanks for stopping by! Feel free to star, fork, or collaborate on any of my projects. Let's build something amazing together! 🚀
+
+
+---
