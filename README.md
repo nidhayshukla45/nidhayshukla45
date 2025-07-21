@@ -29,7 +29,7 @@ I'm all about learning by doing—you'll often find me experimenting with full-s
 
 💼 Skills & Tools
 
-Languages: Python, PHP, HTML, CSS, JavaScript, SQL
+Languages: Python, HTML, CSS, PHP, JavaScript, SQL
 
 Frameworks/Libraries: Django, Flask, Pandas, NumPy, Matplotlib, Scikit-learn
 
