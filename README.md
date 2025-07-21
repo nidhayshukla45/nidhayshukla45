@@ -1,4 +1,4 @@
-👋 Hi, I'm Nidhay Shukla!
+# 👋 Hi, I'm Nidhay Shukla!
 
 🎓 MSc IT Student at Dr. Babasaheb Ambedkar Marathwada University
 💻 Python Dev | Web Dev | Data Science Explorer
@@ -7,7 +7,7 @@
 
 ---
 
-🌟 About Me
+# 🌟 About Me
 
 I’m a curious mind who loves turning ideas into real-world tech solutions. Whether it's crafting clean user interfaces or building intelligent systems with Python, I enjoy solving problems that actually make an impact.
 
@@ -27,7 +27,7 @@ I'm all about learning by doing—you'll often find me experimenting with full-s
 
 ---
 
-💼 Skills & Tools
+# 💼 Skills & Tools
 
 Languages: Python, HTML, CSS, PHP, JavaScript, SQL
 
@@ -41,7 +41,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
 
 ---
 
-🚀 Featured Projects
+# 🚀 Featured Projects
 
 💡 Project	🔎 Description
 
@@ -52,7 +52,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
 
 ---
 
-🤝 Let's Connect
+# 🤝 Let's Connect
 
 📬 Email: nidhayshukla27574@gmail.com
 
