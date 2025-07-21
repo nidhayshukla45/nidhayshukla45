@@ -45,8 +45,8 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
 
 💡 Project	🔎 Description
 
-🔹 Smart Student Feedback System	A PHP & MySQL-powered web app for collecting and managing student feedback. Clean UI, secure database, and an admin dashboard.
-🔹 Course Recommendation System (ML)	A machine learning-based project that recommends online courses based on user input. Built with Python, pandas, and logistic regression. Can also run with a Streamlit or Flask interface.
+| [🔹 Smart Student Feedback System](https://github.com/nidhayshukla45/smart-feedback-system.git) | A PHP & MySQL-powered web app for collecting and managing student feedback. |
+| [🔹 Course Recommendation System (ML)](https://github.com/nidhayshukla45/course-recomendation-system.git) | A Python-based machine learning project that suggests courses based on user input. Uses logistic regression or Naive Bayes and optionally runs with a Flask or Streamlit UI. |
 
 
 
