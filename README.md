@@ -56,7 +56,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
 
 📬 Email: nidhayshukla27574@gmail.com
 
-💼 LinkedIn: View My Profile
+💼 LinkedIn: [View My Profile](https://www.linkedin.com/in/nidhay-shukla-4326a0343)
 
 📄 Resume: Download Here <!-- replace with real link -->
 
