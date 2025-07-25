@@ -15,7 +15,7 @@ I'm all about learning by doing—you'll often find me experimenting with full-s
 
 🔍 Currently exploring:
 
-💡 Full Stack Development – Django, PHP, HTML/CSS, MySQL
+💡 Full Stack Development – PHP, HTML/CSS, MySQL
 
 📈 Data Science & Machine Learning – Pandas, Scikit-learn, Regression Models
 
