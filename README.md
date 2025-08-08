@@ -47,7 +47,7 @@ Tools: Git, GitHub, VS Code, Jupyter Notebook, XAMPP
 
 | [🔹 Smart Student Feedback System](https://github.com/nidhayshukla45/smart-feedback-system.git) | A PHP & MySQL-powered web app for collecting and managing student feedback. |
 | [🔹 Course Recommendation System (ML)](https://github.com/nidhayshukla45/course-recomendation-system.git) | A Python-based machine learning project that suggests courses based on user input. Uses logistic regression or Naive Bayes and optionally runs with a Flask or Streamlit UI. |
-
+| [🔹 Retail Market Basket Analysis](https://github.com/nidhayshukla45/retail-market-basket-analysis.git) | A Python data mining project analyzing retail transaction data using association rule mining (Apriori algorithm) to discover product purchase patterns and improve sales strategy. |
 
 
 ---
