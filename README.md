@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Nidhay Shukla!
 
-🎓 MSc IT Student at Dr. Babasaheb Ambedkar Marathwada University
-💻 Python Dev | Web Dev | Data Science Explorer
+🎓 MSc IT Graduate | 💻 Python | SQL | Power BI | Data Analytics
 📍 Living in Chhatrapati Sambhajinagar (Aurangabad), India
 
 
